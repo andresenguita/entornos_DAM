@@ -17,6 +17,7 @@ public class Ejercicio1 {
 		Scanner sc = new Scanner (System.in);
 		String frase = "";
 		int contadorVocales = 0;
+		System.out.println("holaaaa!");
 
 		System.out.println("Por favor, escriba una frase:");
 		frase = sc.nextLine();
