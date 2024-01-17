@@ -10,6 +10,7 @@ public class Ejercicio1 {
 		if ((car == 'a') || (car == 'e') || (car == 'i') || (car == 'o') || (car == 'u')) {
 			es_vocal = true;
 		}
+		es_vocal = false;
 		return es_vocal;
 	}
 
