@@ -14,6 +14,7 @@ public class Ejercicio1 {
 	}
 
 	public static void main(String[] args) {
+		boooooooo!!
 		Scanner sc = new Scanner (System.in);
 		String frase = "";
 		int contadorVocales = 0;
